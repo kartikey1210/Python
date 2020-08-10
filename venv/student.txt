@@ -1,0 +1,4 @@
+subject,rollno,name,marks
+maths,101,Santosh,35
+English,102, Hina,41
+Hindi,101,Santosh,30

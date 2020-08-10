@@ -1,0 +1,3 @@
+{MARKS : 35 - ID # 101 - NAME : Santosh - SUBJECT # maths - }
+{MARKS : 30 - ID # 101 - NAME : Santosh - SUBJECT # Hindi - }
+                                        Total: 65
